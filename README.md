@@ -28,11 +28,38 @@ This project analyzes Zomato restaurant data using Microsoft Power BI. The dashb
 - Dashboard_Screenshot.png
 
 
+## 📈 Key Insights
 
+- Identified the highest-rated restaurants.
+- Compared restaurant performance across different cities.
+- Analyzed customer ratings and voting patterns.
+- Examined cuisine popularity.
+- Compared pricing with customer ratings.
+- Visualized delivery performance using interactive charts.
+
+## 💡 Skills Demonstrated
+
+- Data Cleaning
+- Data Visualization
+- Dashboard Design
+- KPI Development
+- SQL Analysis
+- Power BI
+- Microsoft Excel
+
+  
+## 📷 Dashboard Preview
+
+![Zomato Dashboard](Dashboard_Screenshot.png)
 
 
 
 ## 👩‍💻 Author
 
+**Santoshi Pandalwad**
 
 Aspiring Data Analyst
+
+GitHub: https://github.com/pandalwadsantoshi3-hub
+
+
