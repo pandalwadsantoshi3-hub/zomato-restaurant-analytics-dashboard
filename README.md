@@ -34,6 +34,5 @@ This project analyzes Zomato restaurant data using Microsoft Power BI. The dashb
 
 ## 👩‍💻 Author
 
-**Santoshi Pandalwad**
 
 Aspiring Data Analyst
