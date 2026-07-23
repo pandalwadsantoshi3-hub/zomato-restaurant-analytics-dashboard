@@ -8,7 +8,6 @@ This project analyzes Zomato restaurant data using Microsoft Power BI. The dashb
 
 - Power BI
 - Microsoft Excel
-- SQL
 - Data Visualization
 
 ## 📊 Dashboard Features
@@ -27,11 +26,11 @@ This project analyzes Zomato restaurant data using Microsoft Power BI. The dashb
 - Zomato_Restaurant_Analytics_Dashboard.pbix
 - Zomato_Dataset.xlsx
 - Dashboard_Screenshot.png
-- SQL_Queries.sql
 
-## 📷 Dashboard Preview
 
-Upload your dashboard screenshot here.
+
+
+
 
 ## 👩‍💻 Author
 
